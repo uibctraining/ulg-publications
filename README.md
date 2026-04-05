@@ -179,7 +179,7 @@ Currently building **99Pages** — an AI-powered Business Operating System servi
 **Contact:**
 - Website: [ulgresearchcenter.com](https://ulgresearchcenter.com)
 - Email: ask@ulgresearchcenter.com
-- LinkedIn: [UIBC Training Hub](https://www.linkedin.com/company/uibc-training-hub)
+- LinkedIn: [UIBC Training Hub](https://www.linkedin.com/uibctraining)
 - WhatsApp: +6018-3761911
 
 ---
