@@ -4,7 +4,7 @@
 
 Core thesis: **"Governance is not management. Management is about people. Governance is structural commitment."**
 
-Governance formula: **E = V x S x C** (Energy = Velocity x Space x Connection)
+Governance formula: **G = V x S x C** (Governance = Velocity x Space x Connection)
 
 ---
 
@@ -55,7 +55,7 @@ Governance formula: **E = V x S x C** (Energy = Velocity x Space x Connection)
 
 ## Governance Framework
 
-- [E = V x S x C — The ULG Governance Formula](framework/E-equals-VxSxC.md)
+- [G = V x S x C — The ULG Governance Formula](framework/G-equals-VxSxC.md)
 
 ---
 

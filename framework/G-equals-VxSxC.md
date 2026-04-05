@@ -1,12 +1,12 @@
-# E = V × S × C — The ULG Governance Formula
+# G = V × S × C — The ULG Governance Formula
 
 ## Ultra-Light Governance Core Framework
 
-**E = V × S × C**
+**G = V × S × C**
 
 | Symbol | Term | Definition |
 |--------|------|------------|
-| **E** | Energy (能量) | The system's overall momentum — its capacity to move, deliver, and sustain |
+| **G** | Governance (治理) | The system's overall governance capacity — its ability to coordinate, sustain, and deliver |
 | **V** | Velocity / Behavioral Density (行為密度) | The rate at which effective actions are completed, progressed, or iterated per unit of time |
 | **S** | Space (空間因子) | The degree to which participants share understanding, decision-making, and goal spaces |
 | **C** | Connection / Nodes (節點因子) | The design quality of relay points where tasks, decisions, and accountability transfer between participants |
