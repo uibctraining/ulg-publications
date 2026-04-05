@@ -13,12 +13,18 @@ Core formula: **G = V x S x C** (Governance = Velocity x Space x Connection)
 
 ### Foundational Theory
 
+<img src="covers/01-governance-ontology.png" width="180" align="right" />
+
 #### 1. 治理本體論 — 統一治理場的第一原理
 **Ontology of Governance — First Principles of the Unified Governance Field**
 
 The theoretical bedrock of the entire ULG system. Asks a fundamental question: is governance a natural phenomenon rather than a human invention? Establishes three governance base forces (S/V/F) and constructs a 12-dimensional Unified Governance Field. Not a management book — a meta-framework explaining *why* governance works the way it does.
 
 > 2025 | Traditional Chinese
+
+<br clear="both" />
+
+<img src="covers/02-ultra-light-governance.png" width="180" align="right" />
 
 #### 2. 超輕治理學
 **Ultra-Light Governance**
@@ -28,6 +34,10 @@ The complete ULG system — distilled from 10 years of observation, 7 years of p
 > "旧模式已死：当治理成为一人公司的核心优势"
 
 > 2026 | Traditional Chinese
+
+<br clear="both" />
+
+<img src="covers/03-light-structure.png" width="180" align="right" />
 
 #### 3. 輕結構：動能、阻力與能量流的治理邏輯
 **Light Structure — Momentum, Resistance, and Energy Flow in Governance**
@@ -42,6 +52,10 @@ Explores the invisible forces that shape organizations: momentum, potential ener
 
 ### Applied Governance
 
+<br clear="both" />
+
+<img src="covers/04-enterprise-os.png" width="180" align="right" />
+
 #### 4. 企业操作系统 — 30天部署可复制生产力
 **Enterprise Operating System — Deploy Replicable Productivity in 30 Days**
 
@@ -54,12 +68,20 @@ Not a book — a deployment manual. Structured as 道·法·术·器·局 (Philo
 
 > 2026 | Simplified Chinese
 
+<br clear="both" />
+
+<img src="covers/05-mvg.png" width="180" align="right" />
+
 #### 5. MVG：最小治理可用模型（操作版）
 **Minimum Viable Governance — Operational Edition**
 
 The practical core of ULG. If governance isn't about adding weight but removing friction — what is the smallest unit of governance that can make a system run? Born from 12+ years of observing organizations, micro-teams, one-person companies, and SMEs. All blockages are structural, not human. All fatigue comes from excessive governance weight, not excessive work.
 
 > 2026 | Traditional Chinese
+
+<br clear="both" />
+
+<img src="covers/06-governance-blind-spots.png" width="180" align="right" />
 
 #### 6. 治理盲區：員工面對的，從來不是人
 **Governance Blind Spots — Employees Never Face Individuals**
@@ -72,6 +94,10 @@ A governance adjudication text. Not management advice, not a survival guide. Red
 
 ### AI & Digital Governance
 
+<br clear="both" />
+
+<img src="covers/07-ai-governance.png" width="180" align="right" />
+
 #### 7. AI 與智能團隊治理 — 人類–人工智能混合協作的治理模型研究
 **AI & Intelligent Team Governance — Governance Models for Human-AI Hybrid Collaboration**
 
@@ -81,6 +107,10 @@ Builds a Hybrid Governance Model for the next 20-50 years. Redefines roles, boun
 - [Preview: Chapter 1](books/ai-governance/preview-chapter-1.md)
 
 > 2026 | Traditional Chinese
+
+<br clear="both" />
+
+<img src="covers/08-role-reconstruction.png" width="180" align="right" />
 
 #### 8. AI 数位治理蓝图：智能岗位重构实战手册
 **Intelligent Role Reconstruction Playbook**
@@ -93,6 +123,10 @@ From manual processes to automated systems — a 90-day enterprise implementatio
 
 ### Boundary & Sustainability
 
+<br clear="both" />
+
+<img src="covers/09-ungovernable-domains.png" width="180" align="right" />
+
 #### 9. 不可治理領域：治理邊界與治理越界
 **Ungovernable Domains — Boundaries and Overreach of Governance**
 
@@ -100,12 +134,20 @@ The "negative theology" of governance. When governance has crossed its condition
 
 > 2026 | Traditional Chinese
 
+<br clear="both" />
+
+<img src="covers/10-sustainable-governance.png" width="180" align="right" />
+
 #### 10. 超輕治理：可持續性的集體動能
 **Sustainable Governance Through Ultra-Light Structures — ESG for 2050-2100**
 
 A cross-generational behavioral engineering text. Sustainability is not policy compliance — it's long-cycle behavioral phenomena. Reframes ESG through the ULG lens: density × rhythm × nodes. When behavior is frequent enough, stable enough, and collectible enough, sustainability happens naturally. Not prescribing "what to do" but understanding "how behavior occurs."
 
 > 2025 | Traditional Chinese
+
+---
+
+<br clear="both" />
 
 ---
 
