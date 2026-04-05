@@ -1,55 +1,111 @@
 # ULG Research Center — Publications
 
-**Ultra-Light Governance (ULG)** is a governance research framework developed by **Ng Tick Kee (吴明序然)**, author of 36+ published works on corporate governance, organizational structure, and human-AI collaboration.
+**Ultra-Light Governance (ULG)** is an original governance research framework developed by **Ng Tick Kee (吴明序然)**, author of 36+ published works spanning governance ontology, organizational structure, AI-human hybrid collaboration, ESG sustainability, and enterprise systems.
 
-Core thesis: **"Governance is not management. Management is about people. Governance is structural commitment."**
+> "治理不是管理。管理是盯人，治理是结构化承诺。"
+> "Governance is not management. Management is about people. Governance is structural commitment."
 
-Governance formula: **G = V x S x C** (Governance = Velocity x Space x Connection)
+Core formula: **G = V x S x C** (Governance = Velocity x Space x Connection)
 
 ---
 
-## Published Books (ISBN Registered)
+## Complete Book Catalogue (10 Titles)
 
-### 1. 企业操作系统 — 30天部署可复制生产力
+### Foundational Theory
 
+#### 1. 治理本體論 — 統一治理場的第一原理
+**Ontology of Governance — First Principles of the Unified Governance Field**
+
+The theoretical bedrock of the entire ULG system. Asks a fundamental question: is governance a natural phenomenon rather than a human invention? Establishes three governance base forces (S/V/F) and constructs a 12-dimensional Unified Governance Field. Not a management book — a meta-framework explaining *why* governance works the way it does.
+
+> 2025 | Traditional Chinese
+
+#### 2. 超輕治理學
+**Ultra-Light Governance**
+
+The complete ULG system — distilled from 10 years of observation, 7 years of practice, and 3 years of structural experimentation. When governance becomes the sole advantage of a one-person company. Covers energy flow, structural weight, behavioral density, and why lighter governance structures outperform heavy ones.
+
+> "旧模式已死：当治理成为一人公司的核心优势"
+
+> 2026 | Traditional Chinese
+
+#### 3. 輕結構：動能、阻力與能量流的治理邏輯
+**Light Structure — Momentum, Resistance, and Energy Flow in Governance**
+
+Explores the invisible forces that shape organizations: momentum, potential energy, resistance, leakage, reverse flow, and structural friction. Governance is not about processes — it's about the relationship between structure and flow. When energy flows smoothly, organizations move naturally; when structure is light, individuals advance without being dragged by tasks.
+
+> "治理真正该处理的，不是流程，而是结构与能量的关系。"
+
+> 2026 | Traditional Chinese
+
+---
+
+### Applied Governance
+
+#### 4. 企业操作系统 — 30天部署可复制生产力
 **Enterprise Operating System — Deploy Replicable Productivity in 30 Days**
 
-| Field | Detail |
-|-------|--------|
-| Author | 吴明序然 (Ng Tick Kee) |
-| Publisher | ULG Research Center |
-| ISBN | 978-629-94966-0-1 |
-| Year | 2026 |
-| Pages | 99 |
-| Language | Simplified Chinese |
-| CIP | Perpustakaan Negara Malaysia |
+Not a book — a deployment manual. Structured as 道·法·术·器·局 (Philosophy · Methodology · Tactics · Tools · Integration). Includes 24-tool matrix, 27 core templates, and a day-by-day 30-day Game Plan. For SME owners trapped in the "time black hole" of doing everything themselves.
 
-> "这不是一本书，这是一份攻略。你手中的这份文件，不是用来"阅读"的，是用来"部署"的。"
-
-**Structure: 道 · 法 · 术 · 器 · 局**
+> ISBN: **978-629-94966-0-1** | CIP: Perpustakaan Negara Malaysia
 
 - [Full Table of Contents](books/enterprise-os/TABLE_OF_CONTENTS.md)
-- [Preview: Foreword + Chapter 1](books/enterprise-os/preview-chapter-1.md) (Free)
+- [Preview: Foreword + Chapter 1](books/enterprise-os/preview-chapter-1.md)
+
+> 2026 | Simplified Chinese
+
+#### 5. MVG：最小治理可用模型（操作版）
+**Minimum Viable Governance — Operational Edition**
+
+The practical core of ULG. If governance isn't about adding weight but removing friction — what is the smallest unit of governance that can make a system run? Born from 12+ years of observing organizations, micro-teams, one-person companies, and SMEs. All blockages are structural, not human. All fatigue comes from excessive governance weight, not excessive work.
+
+> 2026 | Traditional Chinese
+
+#### 6. 治理盲區：員工面對的，從來不是人
+**Governance Blind Spots — Employees Never Face Individuals**
+
+A governance adjudication text. Not management advice, not a survival guide. Redefines: which situations still constitute governance, and which have lost governance legitimacy. Four principles: governance is not natural justice; governance does not equal loyalty; not all systems deserve repair; exit can be the highest governance judgment.
+
+> 2025 | Traditional Chinese | Published by ULG Research Center
 
 ---
 
-### 2. AI 與智能團隊治理 — 人類–人工智能混合協作的治理模型研究
+### AI & Digital Governance
 
+#### 7. AI 與智能團隊治理 — 人類–人工智能混合協作的治理模型研究
 **AI & Intelligent Team Governance — Governance Models for Human-AI Hybrid Collaboration**
 
-| Field | Detail |
-|-------|--------|
-| Author | 吴明序然 (Ng Tick Kee) |
-| Publisher | ULG Research Center |
-| Year | 2026 |
-| Language | Traditional Chinese |
-
-> 本書旨在建立一套面向未來 20–50 年的「混合型治理模型」(Hybrid Governance Model)，重新定義人類與人工智能(AI)在團隊中的角色、邊界與決策位置。
-
-**10 Chapters + Epilogue**
+Builds a Hybrid Governance Model for the next 20-50 years. Redefines roles, boundaries, and decision positions between humans and AI. Covers hybrid behavioral density (V×S×C in AI era), flow-based governance, MVG for AI teams, rhythm systems, risk governance (Bias Triangle, Error Propagation Chain), and the UAG (Ultra-Light AI Governance) roadmap.
 
 - [Full Table of Contents](books/ai-governance/TABLE_OF_CONTENTS.md)
-- [Preview: Chapter 1 — AI Teams: From Tools to Intelligent Members](books/ai-governance/preview-chapter-1.md) (Free)
+- [Preview: Chapter 1](books/ai-governance/preview-chapter-1.md)
+
+> 2026 | Traditional Chinese
+
+#### 8. AI 数位治理蓝图：智能岗位重构实战手册
+**Intelligent Role Reconstruction Playbook**
+
+From manual processes to automated systems — a 90-day enterprise implementation path. Practical playbook for reconstructing job roles around AI capabilities. How to identify which roles expand, which compress, and which transform entirely when AI enters the workplace.
+
+> 2026 | Simplified Chinese | Published by ULG Research Center
+
+---
+
+### Boundary & Sustainability
+
+#### 9. 不可治理領域：治理邊界與治理越界
+**Ungovernable Domains — Boundaries and Overreach of Governance**
+
+The "negative theology" of governance. When governance has crossed its conditions of validity, and governance itself has become harmful, someone must dare to adjudicate "stop." This book is not about giving up — it's about structural judgment. Uses threshold theory to define where governance ends and overreach begins.
+
+> 2026 | Traditional Chinese
+
+#### 10. 超輕治理：可持續性的集體動能
+**Sustainable Governance Through Ultra-Light Structures — ESG for 2050-2100**
+
+A cross-generational behavioral engineering text. Sustainability is not policy compliance — it's long-cycle behavioral phenomena. Reframes ESG through the ULG lens: density × rhythm × nodes. When behavior is frequent enough, stable enough, and collectible enough, sustainability happens naturally. Not prescribing "what to do" but understanding "how behavior occurs."
+
+> 2025 | Traditional Chinese
 
 ---
 
@@ -61,17 +117,27 @@ Governance formula: **G = V x S x C** (Governance = Velocity x Space x Connectio
 
 ## About the Author
 
-**吴明序然 (Ng Tick Kee)**, independent scholar, inventor of the ULG (Ultra-Light Governance) system, Enterprise OS architect.
+**吴明序然 (Ng Tick Kee / Dicky)**
 
-- 36+ published works in the ULG Universe
-- Deep research on SME operational systematization
-- Core belief: "Governance is not management. Management is about people. Governance is structural commitment."
-- Digital evolution roadmap: Digitization -> Automation -> Intelligence -> Super Intelligence
+Independent scholar. Inventor of the ULG (Ultra-Light Governance) system. Enterprise OS architect.
 
-Based in Malaysia. Published by ULG Research Center.
+Long-term researcher of SME operational systematization. Dedicated to transforming top-level governance logic into deployable 30-day frameworks. Has independently completed 36 works in the ULG series.
 
+Core thesis: *"Governance is not management. Management is about people. Governance is structural commitment."*
+
+Digital evolution roadmap: **Digitization → Automation → Intelligence → Super Intelligence**
+
+Currently building **99Pages** — an AI-powered Business Operating System serving students and SMEs at RM99/year. 6-app Telegram ecosystem, 23 live micro-services, 155 AI agents.
+
+**Affiliations:**
+- ULG Research Center — Research & Publishing
+- UIBC Training Hub — Training & Technology
+- 99Pages — AI Micro-Services Platform
+
+**Contact:**
 - Website: [ulgresearchcenter.com](https://ulgresearchcenter.com)
 - Email: ask@ulgresearchcenter.com
+- LinkedIn: [UIBC Training Hub](https://www.linkedin.com/company/uibc-training-hub)
 - WhatsApp: +6018-3761911
 
 ---
@@ -86,9 +152,9 @@ You may:
 
 You may NOT:
 - Use for commercial purposes
-- Create derivative works
-- Redistribute modified versions
-- Use for AI training, dataset collection, or course development without written permission
+- Create derivative works, courses, consulting frameworks, or teaching materials
+- Use for AI training, dataset collection, or model fine-tuning
+- Reproduce the thought framework, models, language structures, or knowledge systems
 
 Full book purchases available at [99pages.uk](https://99pages.uk)
 
@@ -109,6 +175,13 @@ Full book purchases available at [99pages.uk](https://99pages.uk)
   title     = {AI 與智能團隊治理：人類–人工智能混合協作的治理模型研究},
   author    = {Ng, Tick Kee (吴明序然)},
   year      = {2026},
+  publisher = {ULG Research Center}
+}
+
+@book{ng2025governance_ontology,
+  title     = {治理本體論：統一治理場的第一原理},
+  author    = {Ng, Tick Kee (吴明序然)},
+  year      = {2025},
   publisher = {ULG Research Center}
 }
 ```
